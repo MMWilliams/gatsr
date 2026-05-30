@@ -2,7 +2,7 @@
 
 **Concept validation on a CPU toy task and integration on Isaac Lab + Unitree G1**
 
-*Reese (M. M. Williams)*[^author] · *Claude Opus 4.7 (1M ctx)*
+*Reese (M. M. Williams)*[^author] · 
 
 [^author]: Repository: <https://github.com/MMWilliams/gatsr>. Correspondence: maureesewilliams@gmail.com.
 
